@@ -1,0 +1,181 @@
+/*
+ Localizable.strings
+ Bmbrella
+ 
+ Created by Vitaly's Team on 10/30/17.
+ Copyright © 2017 BrainyApps. All rights reserved.
+ */
+
+
+/* Common */
+"error" = "Erreur";
+"success" = "Succès";
+"please_wait" = "Veuillez patienter...";
+"cancel" = "Annuler";
+"network_error" = "La connexion internet est indisponible";
+"today" = "Aujourd’hui";
+"invalid_user" = "Utilisateur invalide";
+"take_photo" = "Prendre une photo";
+"choose_gallery" = "Sélectionner dans la galerie";
+"ok" = "Ok";
+"done" = "Effectué";
+"yes" = "Oui";
+"no" = "Non";
+"invalid_email" = "Adresse e-mail invalide.";
+"no_email" = "Veuillez entrer votre adresse e-mail.";
+"next" = "Suivant";
+"warning" = "Avertissement";
+
+/* All categories */
+"cat_daycare" = "Garderie et gardiennes d'enfants";
+"cat_health" = "Soins de santé";
+"cat_restaurant" = "Restaurants";
+"cat_homemade" = "Nourriture faite maison";
+"cat_hotels" = "Hôtels";
+"cat_apartment" = "Appartements à louer";
+"cat_events" = "Événements et activités";
+"cat_news" = "Nouvelles et magazines";
+"cat_pet" = "S'occuper d'un animal";
+"cat_education" = "Éducation et tutoriel";
+"cat_vol" = "Bénévolat";
+"cat_coaching" = "Fitness et entraînement personnel";
+"cat_fashion" = "Marques et mode";
+"cat_tech" = "Technologie scientifique";
+"cat_general" = "Travail général";
+"cat_travel" = "Agents de voyages et compagnies aériennes";
+"cat_beauty" = "Beauté et Salons";
+"cat_home_service" = "Services à domicile";
+"cat_arts" = "Arts et musique";
+"cat_cars" = "Voitures et motos";
+"cat_entertainment" = "Divertissements";
+"cat_homestay" = "Famille d'accueil";
+"cat_others" = "Autres services et produits";
+"cat_real" = "Immobilier";
+"cat_sports" = "Sports et entraînement personnel";
+
+/* Login */
+"msg_not_registerd_email" = "L’adresse e-mail entrée n’est pas enregistré. Souhaitez-vous créer un compte maintenant ?";
+"msg_not_registered_user" = "Le numéro de téléphone entré n'est pas enregistré. Créer un compte maintenant?";
+"msg_not_registered_name" = "Le nom d'utilisateur entré n'est pas enregistré. Créez un compte maintenant?";
+"not_now" = "Pas maintenant";
+"let_go" = "Allons-y";
+"enter_email" = "Entrer l’adresse e-mail";
+"enter_password" = "Entrer le mot de passe ";
+"re_enter_pwd" = "Entrer à nouveau le mot de passe";
+"incorrect_password" = "Le mot de passe entré est incorrect.";
+"login_failed" = "Échec de connexion";
+"no_email_password" = "Veuillez entrer l’adresse e-mail et le mot de passe.";
+"no_password" = "Veuillez entrer le mot de passe.";
+
+/* Onborading Page */
+"title_one" = "Voir les différentes publications pour différents services de soins disponibles dans votre région.";
+"title_two" = "Créer vos propres publications.";
+"title_three" = "Communiquer avec les autres utilisateurs via les messages intégrés à l'application.";
+
+/* Sign Up */
+"sign_up" = "S’inscrire";
+"success_sign_up" = " Félicitations ! Votre compte a été créé avec succès.";
+"personal" = "Personnel";
+"business" = "Entreprise";
+"select_type" = "Sélectionner votre \n type de compte";
+"not_use" = "Hors service";
+"valid_email" = "Adresse e-mail valide";
+"pwd_one" = "Au moins 6 caractères.";
+"pwd_two" = "Contient une lettre majuscule.";
+"pwd_three" = "Contient une lettre minuscule.";
+"pwd_four" = "Contient un chiffre.";
+"pwd_five" = "Correspond au nouveau mot de passe.";
+"err_single" = "Nous avons détecté une erreur. Aidez-moi à revoir votre réponse et réessayez.";
+"err_multi" = "Nous avons détecté quelques erreurs. Aidez-moi à revoir vos réponses et réessayez.";
+"err_dupli_name" = "This user name was already registed. Please input other user name.";
+"confirm_avatar" = "Voulez-vous vraiment continuer sans photo de profil ?";
+"upload_photo" = "Télécharger une photo";
+"job_experience" = "Expérience professionnelle";
+
+/* Reset Password */
+"reset_pwd" = "Réinitialiser le mot de passe";
+"reset_desc" = "Entrez votre adresse e-mail afin que nous puissions envoyer un lien de réinitialisation du mot de passe.";
+"sent_reset_link" = "Nous avons envoyé un lien de réinitialisation du mot de passe à votre adresse e-mail.";
+
+/* Settings */
+"loggin_out" = "Déconnexion…";
+"log_out" = "Se déconnecter";
+"choose_lng" = "Choisir une langue";
+"lng" = "Langue";
+"english" = "Anglais";
+"arabic" = "Arabe";
+"french" = "Français";
+"settings" = "Paramètres";
+"following_notificaion" = "Les notifications suivantes";
+"notification" = "Notifications";
+"edit_profile" = "Éditer le Profil";
+"rate_app" = "Noter l’application";
+"send_feedback" = "Envoyer des commentaires";
+"about_app" = "À propos de l’application";
+"privacy" = "Politique de confidentialité";
+"terms_condition" = "Conditions générales";
+"brief_description" = "Brève description";
+"add_more" = " Ajouter plus";
+
+
+/* Chat */
+"no_receiver" = "Veuillez sélectionner un utilisateur pour discuter";
+"chat_placeholder" = "Écrire un commentaire ici...";
+"new_message" = "Nouveau message";
+"no_message" = "S'il vous plaît entrez votre message.";
+
+/* Post */
+"no_category" = "Veuillez sélectionner une catégorie.";
+"no_photo" = "Veuillez télécharger une photo.";
+"post" = "Publier";
+"new_post" = "Nouvelle publication";
+"like" = "J’aime";
+"likes" = "Mentions J’aime";
+"comment" = "Commenter";
+"comments" = "Commentaires";
+"own_like_warnig" = "Vous ne pouvez pas aimer votre publication.";
+"already_liked" = "Vous avez déjà aimé cette publication.";
+"already_reported" = "Vous avez déjà signalé cette publication.";
+"already_reported_user" = "Vous avez déjà signalé cet utilisateur.";
+"confirm_del_post" = "Voulez-vous vraiment supprimer cette publication ?";
+"confirm_report_post" = "Voulez-vous vraiment signaler cette publication ?";
+"confirm_report_user" = "Voulez-vous vraiment signaler cet utilisateur ?";
+"long_comment" = "Commentaire trop long.";
+"report_post" = "Signaler la publication";
+"report_user" = "Signaler l’utilisateur";
+"report" = "Signaler";
+"short_reason" = "Le motif est trop court.";
+"long_reason" = "Le motif est trop long.";
+"no_reason" = "Veuillez donner le motif.";
+"no_comment" = "S'il vous plaît entrer un commentaire.";
+
+/* Profile */
+"friends" = "Amis";
+"add_friend" = "Ajouter comme ami";
+"already_friend" = "Cet utilisateur est déjà votre ami";
+"friend" = "Ami";
+"job_position" = "Poste";
+
+/* New Elements */
+"long_message" = "Le message est trop long.";
+"no_result" = "Aucun résultat trouvé";
+"no_record" = "Aucun enregistrement trouvé";
+
+/* Additional */
+"upload_video" = "Télécharger une video";
+"followers" = "Suiveurs";
+"call" = "APPEL";
+"direction" = "DIRECTION";
+"public" = "Publique";
+"only_for_you" = "Seulement pour toi";
+"singup_email" = "S'enregistrer avec l'adresse e-mail";
+"singup_phone" = "Inscrivez-vous avec le téléphone";
+"following_noitification" = "Suite aux demandes";
+"sent_follow_request" = "Vous avez envoyé une demande de suivi.";
+"send_video" = "Envoyer une vidéo";
+"view_all_ads" = "Voir toutes les annonces";
+"view_all_cats" = "Voir toutes les catégories";
+
+"confirm_follow" = "You need to follow to see profile. Do you want to send Follow request now?";
+"confirm_unfollow" = "This is your friend. Are you sure to unfollow?";
+"set_language" = "Définition de la langue ...";

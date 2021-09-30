@@ -1,0 +1,180 @@
+/*
+ Localizable.strings
+ Bmbrella
+ 
+ Created by Vitaly's Team on 10/30/17.
+ Copyright © 2017 BrainyApps. All rights reserved.
+ */
+
+
+/* Common */
+"error" = "Error";
+"success" = "Éxito";
+"please_wait" = "Por favor espera...";
+"cancel" = "Cancelar";
+"network_error" = "La conexión a Internet parece estar fuera de línea";
+"today" = "Hoy";
+"invalid_user" = "Usuario Invalido";
+"take_photo" = "Tomar una foto";
+"choose_gallery" = "Seleccionar de la galería";
+"ok" = "OK";
+"done" = "Hecho";
+"yes" = "Si";
+"no" = "No";
+"invalid_email" = "La dirección de correo electrónico es inválida.";
+"no_email" = "Por favor, introduzce tu dirección de correo electrónico.";
+"next" = "Siguiente";
+"warning" = "Advertencia";
+
+/* All categories */
+"cat_daycare" = "Guardería y Niñeras";
+"cat_health" = "Cuidado de la salud";
+"cat_restaurant" = "Restaurantes";
+"cat_homemade" = "Comida hecha en casa";
+"cat_hotels" = "Hoteles";
+"cat_apartment" = "Alquileres de Apartamentos";
+"cat_events" = "Eventos y actividades";
+"cat_news" = "Noticias y revistas";
+"cat_pet" = "Cuidado de mascotas";
+"cat_education" = "Educación y Tutorial";
+"cat_vol" = "Trabajo voluntario";
+"cat_coaching" = "Fitness y entrenamiento personal";
+"cat_fashion" = "Marcas y moda";
+"cat_tech" = "Tecnología científica";
+"cat_general" = "Labor general";
+"cat_travel" = "Agentes de viajes y aerolíneas";
+"cat_beauty" = "Salones de belleza";
+"cat_home_service" = "Servicios para el hogar";
+"cat_arts" = "Arte y música";
+"cat_cars" = "Coches y motocicletas";
+"cat_entertainment" = "Entretenimientos";
+"cat_homestay" = "Quedarse en casa";
+"cat_others" = "Otros servicios y productos";
+"cat_real" = "Bienes raíces";
+"cat_sports" = "Deportes y Entrenamiento Personal";
+
+/* Login */
+"msg_not_registerd_email" = "El correo electrónico ingresado no está registrado. ¿Desea crear una cuenta ahora?";
+"msg_not_registered_user" = "El número de teléfono ingresado no está registrado. ¿Desea crear una cuenta ahora?";
+"msg_not_registered_name" = "El nombre de usuario ingresado no está registrado. Crea una cuenta ahora?";
+"not_now" = "Ahora no";
+"let_go" = "Vamos";
+"enter_email" = "Ingresar dirección de correo electrónico";
+"enter_password" = "Ingresar contraseña";
+"re_enter_pwd" = "Volver a ingresar la contraseña";
+"incorrect_password" = "La contraseña ingresada es incorrecta.";
+"login_failed" = "Error de inicio de sesión";
+"no_email_password" = "Ingresa el correo electrónico y la contraseña";
+"no_password" = "Por favor, introduce la contraseña.";
+
+/* Onborading Page */
+"title_one" = "Ver diferentes publicaciones para diferentes servicios de atención disponibles en tu área.";
+"title_two" = "Crea tus propias publicaciones también.";
+"title_three" = "Comunícate con otros usuarios a través de los mensajes integrados en la aplicación";
+
+/* Sign Up */
+"sign_up" = "Registrarse";
+"success_sign_up" = "¡Felicitaciones! Tu cuenta se ha creado con éxito.";
+"personal" = "Personal";
+"business" = "Negocios";
+"select_type" = "Selecciona tu\ntipo de cuenta";
+"not_use" = "No en uso";
+"valid_email" = "Correo electrónico válido";
+"pwd_one" = "Al menos 6 caracteres de largo.";
+"pwd_two" = "Contiene letras mayúsculas.";
+"pwd_three" = "Contiene letras minúsculas.";
+"pwd_four" = "Contiene una letra numerica.";
+"pwd_five" = "Coincide con la nueva contraseña.";
+"err_single" = "Detectamos un error. Ayúdame a revisar tu respuesta y vuelve a intentarlo";
+"err_multi" = "Detectamos algunos errores. Ayúdame a actualizar tus respuestas y vuelve a intentarlo";
+"err_dupli_name" = "This user name was already registed. Please input other user name.";
+"confirm_avatar" = "¿Seguro que quieres continuar sin una foto de perfil?";
+"upload_photo" = "Subir foto";
+"job_experience" = "Experiencia laboral";
+
+/* Reset Password */
+"reset_pwd" = "Restablecer contraseña";
+"reset_desc" = "Ingresa tu correo electrónico para que podamos enviarte \n un enlace para restablecer tu contraseña.";
+"sent_reset_link" = "Hemos enviado un enlace para restablecer tu contraseña a tu correo electrónico.";
+
+/* Settings */
+"loggin_out" = "Cerrando sesión...";
+"log_out" = "Cerrar sesión";
+"choose_lng" = "Elegir Idioma";
+"lng" = "Idioma";
+"english" = "Inglés";
+"arabic" = "Árabe";
+"french" = "Francés";
+"settings" = "Configuraciones";
+"following_notificaion" = "Las siguientes notificaciones";
+"notification" = "Notificación";
+"edit_profile" = "Editar Perfil";
+"rate_app" = "Valorar la Aplicación";
+"send_feedback" = "Enviar Comentarios";
+"about_app" = "Acerca de la Aplicación";
+"privacy" = "Política de Privacidad";
+"terms_condition" = "Términos y Condiciones";
+"brief_description" = "Breve Descripción";
+"add_more" = "Agregar Más";
+
+/* Chat */
+"no_receiver" = "Selecciona un usuario para chatear";
+"chat_placeholder" = "Escribir comentario aquí...";
+"new_message" = "Mensaje Nuevo";
+"no_message" = "Por favor ingresa tu mensaje.";
+
+/* Post */
+"no_category" = "Por favor, selecciona una categoría.";
+"no_photo" = "Por favor, sube una foto";
+"post" = "publicar";
+"new_post" = "Nueva publicación";
+"like" = "Me gusta";
+"likes" = "Me gusta";
+"comment" = "Comentario";
+"comments" = "Comentarios";
+"own_like_warnig" = "No te puede gustar tu publicación.";
+"already_liked" = "Ya te gusta esta publicación.";
+"already_reported" = "Ya reportaste esta publicación.";
+"already_reported_user" = "Ya reportaste a este usuario.";
+"confirm_del_post" = "¿Seguro que quieres eliminar esta publicación?";
+"confirm_report_post" = "¿Seguro que quieres reportar esta publicación?";
+"confirm_report_user" = "¿Seguro que quieres reportar a este usuario?";
+"long_comment" = "El comentario es demasiado largo.";
+"report_post" = "Reportar Publicación";
+"report_user" = "Reportar Usuario";
+"report" = "Reprtar";
+"short_reason" = "El motivo es muy corto.";
+"long_reason" = "El motivo es demasiado largo";
+"no_reason" = "Ingresa el motivo.";
+"no_comment" = "Por favor, ingresa el comentario.";
+
+/* Profile */
+"friends" = "Amigos";
+"add_friend" = "Agregar Amigos";
+"already_friend" = "Este usuario ya es tu amigo";
+"friend" = "Amigo";
+"job_position" = "Posicion Laboral";
+
+/* New Elements */
+"long_message" = "El mensaje es demasiado largo.";
+"no_result" = "No se encontraron resultados";
+"no_record" = "No se encontraron registros";
+
+/* Additional */
+"upload_video" = "Subir un video";
+"followers" = "Seguidores";
+"call" = "LLAMAR";
+"direction" = "DIRECCION";
+"public" = "Publico";
+"only_for_you" = "Solo para ti";
+"singup_email" = "Registrarse con correo electrónico";
+"singup_phone" = "Registrarse con el teléfono";
+"following_noitification" = "Siguiendo las solicitudes";
+"sent_follow_request" = "Enviaste la solicitud de seguimiento.";
+"send_video" = "Enviar vídeo";
+"view_all_ads" = "Ver todos los anuncios";
+"view_all_cats" = "Ver todas las categorías";
+
+"confirm_follow" = "You need to follow to see profile. Do you want to send Follow request now?";
+"confirm_unfollow" = "This is your friend. Are you sure to unfollow?";
+"set_language" = "Ajustes de Idioma...";

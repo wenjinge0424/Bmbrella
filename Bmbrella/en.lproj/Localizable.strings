@@ -1,0 +1,198 @@
+/*
+ Localizable.strings
+ Bmbrella
+ 
+ Created by Vitaly's Team on 10/30/17.
+ Copyright © 2017 BrainyApps. All rights reserved.
+ */
+
+
+/* Common */
+"error" = "Error";
+"success" = "Success";
+"please_wait" = "Please wait...";
+"cancel" = "Cancel";
+"network_error" = "The Internet connection appears to be offline";
+"today" = "Today";
+"invalid_user" = "Invalid User";
+"take_photo" = "Take a photo";
+"choose_gallery" = "Select from gallery";
+"ok" = "OK";
+"done" = "Done";
+"yes" = "Yes";
+"no" = "No";
+"invalid_email" = "Email address is invalid.";
+"no_email" = "Please enter your email address.";
+"next" = "Next";
+"warning" = "Warning";
+
+/* All categories */
+"cat_arts" = "Arts & Music";
+"cat_beauty" = "Beauty & Salons";
+"cat_cars" = "Cars & motorcycles";
+"cat_daycare" = "Daycare & Babysitters";
+"cat_education" = "Education & Tutorial";
+"cat_entertainment" = "Entertainments";
+"cat_events" = "Events & activities";
+"cat_coaching" = "Fitness & personal Training";
+"cat_general" = "General Labour";
+"cat_health" = "Healthcare";
+"cat_home_service" = "Home Services";
+"cat_homemade" = "Homemade Food";
+"cat_homestay" = "Homestay";
+"cat_hotels" = "Hotels";
+"cat_news" = "News & Magazines";
+"cat_others" = "Other services and products";
+"cat_pet" = "Pet Care";
+"cat_real" = "Real Estate";
+"cat_restaurant" = "Restaurants";
+"cat_tech" = "Science & Technology";
+"cat_travel" = "Travel Agents & airlines";
+
+"cat_apartment" = "Apartment rentals";
+
+
+
+
+"cat_vol" = "Volunteer Work";
+
+"cat_fashion" = "Brands and Fashion";
+
+
+
+
+
+
+
+
+
+
+
+"cat_sports" = "Sports & Personal Traning";
+
+
+/* Login */
+"msg_not_registerd_email" = "Email entered is not registered. Create an account now?";
+"msg_not_registered_user" = "Phone number entered is not registered. Create an account now?";
+"msg_not_registered_name" = "User name entered is not registered. Create an account now?";
+"not_now" = "Not now";
+"let_go" = "Let's go";
+"enter_email" = "Enter email address";
+"enter_password" = "Enter password";
+"re_enter_pwd" = "Re-enter password";
+"incorrect_password" = "Password entered is incorrect.";
+"login_failed" = "Login Failed";
+"no_email_password" = "Please enter email and password.";
+"no_password" = "Please enter password.";
+
+/* Onborading Page */
+"title_one" = "Search posts to find various care services available in your area.";
+"title_two" = "Create your own posts as well.";
+"title_three" = "Communicate with other users through the in-app messages.";
+
+/* Sign Up */
+"sign_up" = "Sign Up";
+"success_sign_up" = "Congratulation! Your account was created successfully.";
+"personal" = "Personal";
+"business" = "Business";
+"select_type" = "Select your\naccount type";
+"not_use" = "Not in use";
+"valid_email" = "Valid email";
+"pwd_one" = "At least 6 characters long.";
+"pwd_two" = "Contains uppercase letter.";
+"pwd_three" = "Contains lowercase letter.";
+"pwd_four" = "Contains a number letter.";
+"pwd_five" = "Matches new password.";
+"err_single" = "We detected an error. Help me review your answer and try again.";
+"err_multi" = "We detected a few errors. Help me reivew your answers and try again.";
+"err_dupli_name" = "This user name was already registed. Please input other user name.";
+"confirm_avatar" = "Are you sure want to proceed without a profile photo?";
+"upload_photo" = "Upload photo";
+"job_experience" = "Job Experience";
+
+/* Reset Password */
+"reset_pwd" = "Reset Password";
+"reset_desc" = "Type in your email so we can send \n a password reset link.";
+"sent_reset_link" = "We've sent a password reset link to your email.";
+
+/* Settings */
+"loggin_out" = "Logging out...";
+"log_out" = "Log Out";
+"choose_lng" = "Choose Language";
+"lng" = "Language";
+"english" = "English";
+"arabic" = "Arabic";
+"french" = "French";
+"settings" = "Settings";
+"notification" = "Notifications";
+"edit_profile" = "Edit Profile";
+"rate_app" = "Rate App";
+"send_feedback" = "Send Feedback";
+"about_app" = "About the App";
+"privacy" = "Privacy Policy";
+"terms_condition" = "Terms & Conditions";
+"brief_description" = "Brief Description";
+"add_more" = "  Add more";
+
+/* Chat */
+"no_receiver" = "Please select user to chat";
+"chat_placeholder" = "Write message here...";
+"new_message" = "New Message";
+"no_message" = "Please enter your message.";
+
+/* Post */
+"no_category" = "Pleae select a category.";
+"no_photo" = "Please upload a photo.";
+"post" = "Post";
+"new_post" = "New Post";
+"like" = "Like";
+"likes" = "Likes";
+"comment" = "Comment";
+"comments" = "Comments";
+"own_like_warnig" = "You cannot like your post.";
+"already_liked" = "You already liked this post.";
+"already_reported" = "You already reported this post.";
+"already_reported_user" = "You already reported this user.";
+"confirm_del_post" = "Are you sure want to delete this post?";
+"confirm_report_post" = "Are you sure want to report this post?";
+"confirm_report_user" = "Are you sure want to report this user?";
+"long_comment" = "Comment is too long.";
+"report_post" = "Report Post";
+"report_user" = "Report User";
+"report" = "Report";
+"short_reason" = "The reason is too short.";
+"long_reason" = "The reason is too long.";
+"no_reason" = "Please enter the reason.";
+"no_comment" = "Please enter comment.";
+
+/* Profile */
+"friends" = "Friends";
+"add_friend" = "Add Friend";
+"already_friend" = "This user is already your friend";
+"friend" = "Friend";
+"job_position" = "Job Position";
+
+/* New Elements */
+"long_message" = "Message is too long.";
+"no_result" = "No result found";
+"no_record" = "No record found";
+
+
+/* Additional */
+"upload_video" = "Upload video";
+"followers" = "Followers";
+"call" = "CALL";
+"direction" = "DIRECTION";
+"public" = "Public";
+"only_for_you" = "Only for you";
+"singup_email" = "Sign Up with Email";
+"singup_phone" = "Sign Up with Phone";
+"following_noitification" = "Friends Request";
+"sent_follow_request" = "You sent Follow request.";
+"send_video" = "Send Video";
+"view_all_ads" = "View All Ads";
+"view_all_cats" = "View all Categories";
+
+"confirm_follow" = "You need to follow to see profile. Do you want to send Follow request now?";
+"confirm_unfollow" = "This is your friend. Are you sure to unfollow?";
+"set_language" = "Setting Language...";

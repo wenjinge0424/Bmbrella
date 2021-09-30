@@ -1,0 +1,182 @@
+/*
+ Localizable.strings
+ Bmbrella
+ 
+ Created by Vitaly's Team on 10/30/17.
+ Copyright © 2017 BrainyApps. All rights reserved.
+ */
+
+
+/* Common */
+"error" = "خطأ";
+"success" = "تمت العملية بنجاح";
+"please_wait" = "الرجاء الانتظار...";
+"cancel" = "إلغاء";
+"network_error" = "يبدو أنك غير متصل بالإنترنت";
+"today" = "اليوم";
+"invalid_user" = "اسم مستخدم غير صحيح";
+"take_photo" = "التقط صورة";
+"choose_gallery" = "اختر صورة من الألبوم";
+"ok" = "موافق";
+"done" = "تم";
+"yes" = "نعم";
+"no" = "لا";
+"invalid_email" = "البريد الإلكتروني غير صحيح";
+"no_email" = "الرجاء إدخال بريدك الإلكتروني";
+"next" = "التالي";
+"warning" = "تحذير";
+
+/* All categories */
+"cat_daycare" = "مربيات ورياض اطفال";
+"cat_health" = "الرعاىة الصحية";
+"cat_restaurant" = "مطاعم";
+"cat_homemade" = "طبخ و وصفات منزليه";
+"cat_hotels" = "الفنادق";
+"cat_apartment" = "شقة ";
+"cat_events" = "فعاليات و نشاطات";
+"cat_news" = "الأخبار والمجلات";
+"cat_pet" = "رعاية الحيوانات الاليفة";
+"cat_education" = "تعليم ودروس خصوصيه ";
+"cat_vol" = "عمل تطوعي";
+"cat_coaching" = "اللياقة البدنية والتدريب الشخصي";
+"cat_fashion" = "الماركات والأزياء";
+"cat_tech" = "العلوم والتكنولوجيا";
+"cat_general" = "العمل العام";
+"cat_travel" = "وكلاء السفر وشركات الطيران";
+"cat_beauty" = "صالونات التجميل";
+"cat_home_service" = "خدمات منزلية";
+"cat_arts" = "فنون وموسيقى";
+"cat_cars" = "سيارات ودراجات نارية";
+"cat_entertainment" = "الترفيه";
+"cat_homestay" = "سكن عائلي للطلاب";
+"cat_others" = "خدمات ومنتجات أخرى";
+"cat_real" = "العقارات";
+"cat_sports" = "الرياضه والمدربين الشخصيين";
+
+/* Login */
+"msg_not_registerd_email" = "البريد الإلكتروني المدخل غير مسجّل. هل تريد إنشاء حساب جديد؟";
+"msg_not_registered_user" = "رقم الهاتف الذي تم إدخاله غير مسجل.";
+"msg_not_registered_name" = "اسم المستخدم الذي تم إدخاله غير مسجل. قم بإنشاء حساب الآن؟";
+"not_now" = "ليس الآن";
+"let_go" = "فلنبدأ";
+"enter_email" = "أدخل بريدك الإلكتروني";
+"enter_password" = "أدخل كلمة السر";
+"re_enter_pwd" = "أعد إدخال كلمة السر";
+"incorrect_password" = "كلمة السر المدخلة غير صحيحة.";
+"login_failed" = "فشلت عملية تسجيل الدخول";
+"no_email_password" = "الرجاء إدخال البريد الإلكتروني وكلمة السر.";
+"no_password" = "الرجاء إدخال كلمة السر";
+
+/* Onborading Page */
+"title_one" = "عرض مشاركات مختلفة لخدمات الرعاية المختلفة المتاحة في منطقتك.";
+"title_two" = "إنشاء المشاركات الخاصة بك أيضاً.";
+"title_three" = "التواصل مع المستخدمين الآخرين من خلال خاصية الرسائل المدمجة  في التطبيق.";
+
+
+/* Sign Up */
+"sign_up" = "إنشاء حساب";
+"success_sign_up" = "تهانينا ! تم إنشاء حسابك بنجاح.";
+"personal" = "حساب خاص";
+"business" = "حساب عمل";
+"select_type" = "اختر \n نوع الحساب الخاص بك.";
+"not_use" = "غير مستخدم";
+"valid_email" = "البريد الإلكتروني مقبول";
+"pwd_one" = "يجب أن يكون 6 أحرف على الأقل.";
+"pwd_two" = "يجب أن يحتوي على أحرف كبيرة.";
+"pwd_three" = "يجب أن يحتوي على أحرف صغيرة.";
+"pwd_four" = "يجب أن يحتوي على رقم.";
+"pwd_five" = "يجب أن يطابق كلمة السر الجديدة.";
+"err_single" = "اكتشفنا خطأ. ساعدني في مراجعة إجابتك وحاول مرة أخرى.";
+"err_multi" = "اكتشفنا بعض الأخطاء. ساعدني في مراجعة إجاباتك وحاول مرة أخرى.";
+"err_dupli_name" = "اسم المستخدم الذي تم إدخاله غير مسجل. قم بإنشاء حساب الآن؟";
+"confirm_avatar" = "هل انت متأكد من أنك تريد المتابعة دون إضافة صورة شخصية للحساب؟";
+"upload_photo" = "تحميل صورة";
+"job_experience" = "الخبرة الوظيفية";
+
+/* Reset Password */
+"reset_pwd" = "إعادة تعيين كلمة السر";
+"reset_desc" = "قم بكتابة بريدك الإلكتروني حتى نتمكن من إرسال \n رابط إعادة تعيين كلمة السر.";
+"sent_reset_link" = "لقد أرسلنا رابط إعادة تعيين كلمة السر إلى بريدك الإلكتروني.";
+
+/* Settings */
+"loggin_out" = "تسجيل الخروج...";
+"log_out" = "تسجيل الخروج";
+"choose_lng" = "اختيار اللغة";
+"lng" = "اللغة";
+"english" = "الإنجليزية";
+"arabic" = "العربية";
+"french" = "الفرنسية";
+"settings" = "الإعدادات";
+"following_notificaion" = "طلبات الصداقه";
+"notification" = "إخطارات";
+"edit_profile" = "تعديل تفاصيل الحساب";
+"rate_app" = "تقييم التطبيق";
+"send_feedback" = "أرسل لنا رأيك";
+"about_app" = "نبذة عن التطبيق";
+"privacy" = "سياسة الخصوصية";
+"terms_condition" = "الشروط والأحكام";
+"brief_description" = "الوصف الموجز";
+"add_more" = " إضافة المزيد";
+
+/* Chat */
+"no_receiver" = "الرجاء اختيار مستخدم لبدء المحادثة معه";
+"chat_placeholder" = "قم بكتابة تعليقك هنا...";
+"new_message" = "رسالة جديدة";
+"no_message" = "أدرج رسالتك من فضلك.";
+
+/* Post */
+"no_category" = "الرجاء اختيار الفئة.";
+"no_photo" = "الرجاء تحميل صورة.";
+"post" = "مشاركة";
+"new_post" = "مشاركة جديدة";
+"like" = "إعجاب";
+"likes" = "إعجابات";
+"comment" = "تعليق";
+"comments" = "تعليقات";
+"own_like_warnig" = "لا يمكنك إعجاب مشاركتك الخاصة.";
+"already_liked" = "لقد قمت بإعجاب هذه المشاركة من قبل.";
+"already_reported" = "لقد قمت بالتبليغ عن هذه المشاركة من قبل.";
+"already_reported_user" = "لقد قمت بالتبليغ عن هذا المستخدم من قبل.";
+"confirm_del_post" = "هل أنت متأكد من أنك تريد حذف هذه المشاركة؟";
+"confirm_report_post" = "هل أنت متأكد من أنك تريد التبليغ عن هذه المشاركة؟";
+"confirm_report_user" = "هل أنت متأكد من أنك تريد التبليغ عن هذا المستخدم؟?";
+"long_comment" = "التعليق طويل جداً.";
+"report_post" = "التبليغ عن المشاركة";
+"report_user" = "التبليغ عن المستخدم";
+"report" = "تبليغ";
+"short_reason" = "السبب قصير جداً.";
+"long_reason" = "السبب طويل جداً.";
+"no_reason" = "الرجاء ادخال السبب";
+"no_comment" = "الرجاء إدخال تعليق.";
+
+/* Profile */
+"friends" = "الأصدقاء";
+"add_friend" = "إضافة صديق";
+"already_friend" = "هذا الصديق على قائمة أصدقائك مسبقاً";
+"friend" = "صديق";
+"job_position" = "منصب العمل";
+
+
+/* New Elements */
+"long_message" = "الرسالة طويلة جدا.";
+"no_result" = "لم يتم العثور على نتيجة";
+"no_record" = "لم يتم العثور على أي سجل";
+
+/* Additional */
+"upload_video" = "رفع فيديو";
+"followers" = "المتابعون";
+"call" = "اتصل";
+"direction" = "اتجاه";
+"public" = "عامة";
+"only_for_you" = "فقط من اجلك";
+"singup_email" = "سجل عن طريق البريد الإلكتروني";
+"singup_phone" = "اشترك بواسطة الهاتف";
+"following_noitification" = "طلبات الصداقه";
+"sent_follow_request" = "اتبع الطلب الذي قمت بإرساله.";
+"send_video" = "ارسل مقطع فيديو";
+"view_all_ads" = "عرض جميع الإعلانات";
+"view_all_cats" = "عرض جميع الفئات";
+
+"confirm_follow" = "You need to follow to see profile. Do you want to send Follow request now?";
+"confirm_unfollow" = "This is your friend. Are you sure to unfollow?";
+"set_language" = "ضبط اللغة ...";

@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "626ce3e0-85a3-014e-960a-b38704079759++3547",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "626ce3e0-85a3-014e-960a-b38704079759++3547" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "626ce3e0-85a3-014e-960a-b38704079759++3547" : 9223372036854775807,
+    "FD5B115EE7A3D3F8BA4B7F820F332BCE90919E78" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA18A8CE-2954-404F-815F-412F9EFD8D5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "626ce3e0-85a3-014e-960a-b38704079759++3547" : "Bmbrella\/",
+    "FD5B115EE7A3D3F8BA4B7F820F332BCE90919E78" : "Bmbrella\/Bmbrella\/Libraries\/APAddressBook\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bmbrella",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bmbrella.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/pd1-srv.hanayonghe.com:81\/svn\/BrainyApps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "626ce3e0-85a3-014e-960a-b38704079759++3547"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alterplay\/APAddressBook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD5B115EE7A3D3F8BA4B7F820F332BCE90919E78"
+    }
+  ]
+}
